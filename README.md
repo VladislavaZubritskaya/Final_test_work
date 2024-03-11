@@ -109,7 +109,7 @@ void PrintArray(string[] array)
 
 Результаты работы программы прилагаются:
 
-![alt text](../skrin.png)
+![alt text](skrin.png)
 
-![alt text](../skrin2.png)
+![ ](skrin2.png)
 
